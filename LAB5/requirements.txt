@@ -1,0 +1,4 @@
+icrawler
+requests
+pyside6
+
